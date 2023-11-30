@@ -1,0 +1,1 @@
+Java Annotation Processing 처리를 위해 AOP를 활용한 코드
